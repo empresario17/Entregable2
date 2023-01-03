@@ -1,0 +1,31 @@
+
+*{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.card{
+justify-content: center;
+display: flex;
+padding: 30px;
+}
+
+.App{
+  padding: 30px;
+}
+
+.card {
+  width: 500px;
+  margin: 0 auto;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.card img {
+  width: 150px;
+}
+
+.card ul {
+  list-style: none;
+}
